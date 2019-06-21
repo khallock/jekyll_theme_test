@@ -1,9 +1,9 @@
 menu:
-  - title: Layouts
-    url: /jekyll-koru-test/pages/layouts.html
-  - title: Updating the Main Menu
-    url: /jekyll-koru-test/pages/main-menu.html
-  - title: Local Development
-    url: /jekyll-koru-test/pages/local-development.html
+  - title: Software
+    url: /jekyll_theme_test/pages/software.html
+  - title: Documentation
+    url: /jekyll_theme_test/pages/documentation.html
+  - title: Contributing
+    url: /jekyll_theme_test/pages/contributing.html
   - title: Support
-    url: /jekyll-koru-test/pages/support.html
+    url: /jekyll_theme_test/pages/support.html
